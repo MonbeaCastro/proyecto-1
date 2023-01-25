@@ -1,0 +1,39 @@
+
+.navbar-iframe{
+    width: 100%;
+    height: 100px;
+}
+
+.showcase-iframe{
+    width: 100%;
+    height: 100vh;
+}
+
+.speakers-iframe{
+    width: 100%;
+    height: 700px;
+}
+
+.cta-iframe{
+    width: 100%;
+    height: 700px;
+}
+
+.form-iframe{
+    width: 100%;
+    height: 550px;
+}
+
+.footer-iframe{
+    width: 100%;
+    height: 200px;
+}
+
+.accordion-flex{
+    display: 100vw;
+    display: flex;
+}
+
+.accordion-flex div{
+    width: 50%;
+}
